@@ -1,0 +1,44 @@
+*{
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+.container{
+    display: inline-block;
+    /* background-color: rgb(179, 169, 154); */
+    height: 200%; 
+    width: 100%;
+    border: 2px solid red;
+    position: absolute ; 
+    top: 70px;
+    /* left: 50px; */
+}
+.container h2{
+    position: absolute;
+    top: 390px;
+    left: 50px;
+    text-align: center;
+
+}
+.navi ul li {
+    display: inline-block;
+    padding: 10px;
+}
+nav{
+    box-sizing: border-box;
+
+}
+nav {
+    display: inline-block;
+    position: fixed;
+    top: 0px;
+    margin-left: 500px;
+    text-align: center;
+    background-color: blue;
+}
+.heading{
+    position: relative;
+    top: 350px;
+    left: 500px;
+
+}

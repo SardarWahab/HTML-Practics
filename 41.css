@@ -1,0 +1,24 @@
+/* *{
+    color: burlywood;
+} */
+header{
+    background-color: #f0ebeb ;
+}
+section.my-article{
+background:#f2e9e9;
+}
+header p{
+    color:red;
+}
+li a{
+color: yellow;
+}
+/* section.my-article h2{
+    background-color: #9e0c0c;
+} */
+section.my-article > h2{
+    background-color: #9e0c0c;
+}
+h2+p{
+    color: #9e0c0c;
+}

@@ -1,0 +1,26 @@
+body{
+    padding: 40px ;
+}
+nav{
+    background-color: #6e6565;
+    /* border: 4px solid red; */
+    padding: 10px 50px;
+    color: #fefefe;
+    text-align: center;
+}
+li{
+    padding: 10px;
+    display: inline-block;
+
+    
+}
+a{
+    color: #fffefe;
+}
+article{
+    padding: 10px;
+}
+h1{
+    padding-top: 20px;
+    border-bottom: solid 4px black;
+}

@@ -1,0 +1,25 @@
+header{
+    padding: 1px;
+    background: lightslategray;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+
+}
+.section-1, .section-2{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px;
+    border: black solid 4px;
+}
+.section-2{
+    margin-top: 20px;
+} 
+/* .section-2{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 1px;
+    border: black solid 4px;
+    margin-top: 20px;
+} */
